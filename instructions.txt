@@ -1,1 +1,5 @@
-Hello. This is the instructions file for this thing.
+How to create a website with HTML:
+
+Hello. This is the instructions file. This is very easy to use, so let's go right ahead.
+Go to build.html. It will show you how to build a website, and give you code to copy.
+That's all you need to know right now.
